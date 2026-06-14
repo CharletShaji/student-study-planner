@@ -24,7 +24,7 @@ applying skills from Database Fundamentals (SIT103), Responsive Web Apps
    pip install flask flask-sqlalchemy
 2. Run the app:
    py planner.py
-3. Open your browser at [http://localhost:5001](https://student-study-planner-phmj.onrender.com)
+3. Open your browser at https://student-study-planner-phmj.onrender.com
 
 ## 📚 Skills Demonstrated
 - Full-stack web development
